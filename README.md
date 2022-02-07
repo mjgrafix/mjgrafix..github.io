@@ -1,2 +1,2 @@
-# mjgrafix..github.io
+# mjgrafix.github.io
 Project website
